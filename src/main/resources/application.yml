@@ -1,0 +1,3 @@
+jwt:
+  secretKey: 995b7abc9b77ae4b745bd06db1d3bfb3f2ddc3570c36eb6bfcd955f3970e6e2c
+  refreshKey: 634469603cb94a3f85dad5f19f21dc68141a4a77dbdd3203c948082e936f8117
